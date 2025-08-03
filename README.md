@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Abdul 👋
 
-<!--
-**AbdulSafiCS/AbdulSafiCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CS graduate with a minor in data science, passionate about data, development, and solving real-world problems.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently building a react native application and data dashboards
+- 🌱 I’m learning TypeScript and Power BI
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/hasibsafi/) | [Portfolio](https://hasibsafi.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Tech Stack
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
