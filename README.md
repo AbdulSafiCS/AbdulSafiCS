@@ -4,7 +4,7 @@ I'm a CS graduate with a minor in data science, passionate about data, developme
 
 - 🔭 I’m currently building a react native application and data dashboards
 - 🌱 I’m learning TypeScript and Power BI
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/hasibsafi/) | [Portfolio](https://hasibsafi.com)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/hasibsafi/)
 
 ## ⚡ Tech Stack
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
